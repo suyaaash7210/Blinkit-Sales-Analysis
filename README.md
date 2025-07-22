@@ -61,5 +61,5 @@ To provide a smart and intuitive Power BI dashboard that:
 ---
 
 ## 6. 🖼️ Screenshots / Demos
-
+Example: ![Dashboard Preview](https://github.com/suyaaash7210/Blinkit-Sales-Analysis/blob/main/Snapshot%20of%20Blinkit%20Dashboard.PNG)
 
